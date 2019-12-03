@@ -1,0 +1,22 @@
+{
+  "name": "timefloat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cli.js",
+  "bin": {
+    "timefloat": "cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spacenomads/What-the-time.git"
+  },
+  "author": "Carlos Mañas <carlos@spacenomads.com> (https://spacenomads.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spacenomads/What-the-time/issues"
+  },
+  "homepage": "https://github.com/spacenomads/What-the-time#readme"
+}
